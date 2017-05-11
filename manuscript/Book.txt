@@ -1,2 +1,7 @@
 chapter1.md
 chapter2.md
+chapter2a.md
+chapter2b.md
+chapter2c.md
+chapter2d.md
+chapter3.md
