@@ -1,0 +1,48 @@
+## Navigation strategy for small screen
+
+
+In small screen, we used to hide navigation to provide enough screen space for the main content.
+
+There are several approaches:
+
+- Dropdown select
+- Hamburger menu
+- Slide down
+- Footer navigation
+
+![Navigation trend from Treehouse](http://archive.makzan.net/images/mobile-web-design/treehouse-navigation-trend.png)
+
+
+You may find [this essay about popular trends on navigation pattern](http://blog.teamtreehouse.com/popular-web-design-trends-for-responsive-navigation) from Jake Rocheleau.
+
+
+## NYTimes’ navigation example
+
+<video src='https://player.vimeo.com/external/213804113.sd.mp4?s=61c190fe1f9bfc32345698d4d889d7bc651dcd55&profile_id=164' controls autoplay loop></video>
+
+## QZ’s navigation example
+
+<video src='https://player.vimeo.com/external/213804160.sd.mp4?s=e6d829a8da755cab43984dd3f171b25ccf0f77d9&profile_id=165' controls autoplay loop></video>
+
+
+Also, there are a collection of patterns in this [ResponsiveNavigation.com](http://responsivenavigation.net/).
+
+![Examples of common responsive navigation](http://archive.makzan.net/images/mobile-web-design/responsive-navigation-website.png)
+
+## Block grid navigation
+
+![Navigation in block grid](http://archive.makzan.net/images/mobile-web-design/block-grid-navigation.png)
+
+## Navigation based on `<select>`
+
+![Navigation based on select](http://archive.makzan.net/images/mobile-web-design/select-navigation.png)
+
+
+Extra: Brad Frost has written two articles on the patterns with pros and cons on each navigation pattern:
+
+- [Responsive nav patterns](http://bradfrostweb.com/blog/web/responsive-nav-patterns/)
+- [Complex navigation patterns for responsive design](http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/)
+
+
+
+
